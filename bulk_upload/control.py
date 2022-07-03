@@ -1,4 +1,4 @@
-from .mysql import mysql
+from mysql import mysql
 import json
 import os
 import time
